@@ -4,7 +4,7 @@ extern int a;
 	int a=3;
 
 int main(){
-	
+	cout<<"a change"<<endl;
 	cout<<a<<endl;
 	return 0;
 }
